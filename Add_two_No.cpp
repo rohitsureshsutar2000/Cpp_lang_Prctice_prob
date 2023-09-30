@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+	// Initialize integer value
 	int Num_1,Num_2;
 	cout<<"Enter Two number:-"<<endl;
 	cin>>Num_1>>Num_2;
