@@ -45,6 +45,7 @@ int main()
 		s2.display();
 		s2.~strings();
 	}
+	//it shows garbage value
 	s1.display();
 	return 0;
 }
