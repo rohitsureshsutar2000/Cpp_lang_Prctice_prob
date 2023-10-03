@@ -20,6 +20,7 @@ strings::strings(char* sptr)
 
 strings::~strings()
 {
+	//delete the string
 	cout<<"destructor is call"<<endl;
 	if (str)
 	{
