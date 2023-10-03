@@ -3,6 +3,7 @@ using namespace std;
 
 void display(char='*', int =3);
 int main(){
+	//display function call
 	cout<<"no argument passed"<<endl;
 	display();
 	cout<<"1 argument passed"<<endl;
