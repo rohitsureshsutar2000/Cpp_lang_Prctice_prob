@@ -5,10 +5,10 @@ using namespace std;
   
 int main () {  
 	int n = 1;
-
+	
 	cout.width(6);   
   	cout << right << n << '\n';  
-  	
+  	// we use setw manipulator
   	cout << setw(10) << "World";
   return 0;  
 }  
