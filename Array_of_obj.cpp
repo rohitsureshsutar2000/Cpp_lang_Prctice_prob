@@ -6,6 +6,7 @@ class Employee
 	char name[15];
 	int age;
 	public :
+		// get data from user
 		void getData()
 		{
 			cout<<"Enter ID :"<<endl;
