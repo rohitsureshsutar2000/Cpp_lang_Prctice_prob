@@ -5,7 +5,7 @@ using namespace std;
   
 int main () {  
 	int n = 1;
-	
+	// using  manipulators
 	cout.width(6);   
   	cout << right << n << '\n';  
   	// we use setw manipulator
