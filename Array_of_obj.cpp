@@ -27,9 +27,10 @@ class Employee
 
 int main()
 {
+	//creating the object of array
 	Employee array [3];
 	for(int i=0; i<3; i++)
-	{
+	{	
 		array[i].getData();
 	}
 		for(int i=0; i<3; i++)
