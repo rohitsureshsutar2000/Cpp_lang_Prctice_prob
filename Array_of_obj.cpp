@@ -16,6 +16,7 @@ class Employee
 			cout<<"Enter Age :"<<endl;
 			cin>>age;
 		}
+		// displaying the id , name and age
 		void Display()
 		{
 			cout<<"Id : "<<emp_id<<endl;
