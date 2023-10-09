@@ -19,11 +19,13 @@ int main()
 		{
 			cout<<" ";
 		}
+		//printing * tringle
 		for (int x=0;x<i;x++)
 		{
 			cout<<"*";
 			
 		}
+		
 		cout<<i;
 		for (int x=0;x<i;x++)
 		{
