@@ -25,7 +25,7 @@ int main()
 			cout<<"*";
 			
 		}
-		
+		// printing numbers
 		cout<<i;
 		for (int x=0;x<i;x++)
 		{
