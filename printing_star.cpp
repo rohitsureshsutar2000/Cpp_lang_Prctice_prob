@@ -27,6 +27,7 @@ int main()
 		}
 		// printing numbers
 		cout<<i;
+		//printing right side triangle
 		for (int x=0;x<i;x++)
 		{
 			cout<<"*";
