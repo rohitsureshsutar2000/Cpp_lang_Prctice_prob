@@ -14,6 +14,7 @@ int main()
 	b=a;
 	for (int i=1;i<=a;i++)
 	{
+		// adding space
 		for (int j=0;j<b-1;j++)
 		{
 			cout<<" ";
