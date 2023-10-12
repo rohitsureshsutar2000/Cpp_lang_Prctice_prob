@@ -18,7 +18,6 @@ int main()
 	
 	for(int i=0;i<4;i++)
 	{
-//		cout<<"When floor is ="<<i<<endl;
 		max2=0;
 		for (int j=0;j<4;j++)
 		{
@@ -33,7 +32,6 @@ int main()
 		{
 			max1=max2;
 			floor=i;
-//			cout<< "            The max value ="<< max1<<endl;
 		}
 		else
 		{
