@@ -38,7 +38,6 @@ int main()
 		else
 		{
 			max1=max1;
-//			cout<< "           The max value ="<< max1<<endl;
 		}
 	}
 	
